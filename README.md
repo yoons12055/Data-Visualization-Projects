@@ -1,7 +1,7 @@
 # Data-Visualization-Projects
 Collection of data visualizing projects through Tableau, Data Wrapper, and Power BI
 
-## 1. [Indigenous-Brands-Social-Movements](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Indian%20Trademarks%20Project)
+## [Indigenous-Brands-Social-Movements](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Indian%20Trademarks%20Project)
 Python(Pandas, NumPy, Re, Matplotlib), Data Visualization(Data Wrapper)
 
 **Selected as a part of competitive UC Berkeley Data Discovery Research Programs, "Indigenous Brands & Social Movements"**
@@ -15,7 +15,7 @@ Have you noticed how many brands in the marketplace use indigenous/Native Americ
 
 - **University of California, Berkeley / Data Discovery Research Program Project**
 
-## 2. [Visualization of Homeless in the States using Tableau](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Homeless%20in%20USA)
+## [Visualization of Homeless in the States using Tableau](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Homeless%20in%20USA)
 
 <img width="1280" alt="Screen Shot 2021-08-18 at 9 07 04 PM" src="https://user-images.githubusercontent.com/52183257/129898061-2b3c45d5-7aa7-40db-97e2-779aecad9c07.png">
 
@@ -32,7 +32,7 @@ Have you noticed how many brands in the marketplace use indigenous/Native Americ
 
 - **Individual Project by Jinwoo(Roy) Yoon**
 
-## 3. [Finance Report using PowerBI](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Finance%20Report)
+## [Finance Report using PowerBI](https://github.com/yoons12055/Data-Visualization-Projects/tree/main/Finance%20Report)
 <img width="820" alt="Screen Shot 2022-02-05 at 3 47 12 PM" src="https://user-images.githubusercontent.com/52183257/152632149-0579983b-9cf8-400f-a1d1-1d245afec5e1.png">
 
 * Sample dataset (From Power BI) of a company's sales of products with various countries and dates
