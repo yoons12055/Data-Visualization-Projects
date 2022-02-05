@@ -32,7 +32,7 @@ Have you noticed how many brands in the marketplace use indigenous/Native Americ
 
 - **Individual Project by Jinwoo(Roy) Yoon**
 
-## 3.Finance-Report-PowerBI
+## 3. Finance-Report-PowerBI
 <img width="820" alt="Screen Shot 2022-02-05 at 3 47 12 PM" src="https://user-images.githubusercontent.com/52183257/152632149-0579983b-9cf8-400f-a1d1-1d245afec5e1.png">
 
 * Sample dataset (From Power BI) of a company's sales of products with various countries and dates
