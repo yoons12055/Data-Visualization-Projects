@@ -31,3 +31,18 @@ Have you noticed how many brands in the marketplace use indigenous/Native Americ
 4. Side-by-Side bar chart of the number of homeless in 2012 and 2013
 
 - **Individual Project by Jinwoo(Roy) Yoon**
+
+## 3.Finance-Report-PowerBI
+<img width="820" alt="Screen Shot 2022-02-05 at 3 47 12 PM" src="https://user-images.githubusercontent.com/52183257/152632149-0579983b-9cf8-400f-a1d1-1d245afec5e1.png">
+
+* Sample dataset (From Power BI) of a company's sales of products with various countries and dates
+* This dashboard answers the followings:
+  * Which month/year was the most profitable?
+  * In which country was the most profitable?
+  * Which segment should the company invest more?
+
+1. Map of the North America and Europe showing the amount of sales
+2. Graph of profit from sales by months
+3. Bar chart of sales by products/segments
+
+* **Individual Project by Jinwoo(Roy) Yoon**
