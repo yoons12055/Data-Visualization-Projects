@@ -20,15 +20,16 @@ Have you noticed how many brands in the marketplace use indigenous/Native Americ
 <img width="1280" alt="Screen Shot 2021-08-18 at 9 07 04 PM" src="https://user-images.githubusercontent.com/52183257/129898061-2b3c45d5-7aa7-40db-97e2-779aecad9c07.png">
 
 - Dataset of statistics of homeless from Kaggle and Github
-- Which state has the most number of homeless?
-- Is there a difference of the number of homeless between 2012 and 2013?
-- In what state and how many of homeless people of each type(Unsheltered, families, veterans, unaccompanied children, and chronic) are there?
-- Could be much better if I get appropriate datasets with various years. 
+- This dashboard answers the followings:
+  - Which state has the most number of homeless?
+  - Is there a difference of the number of homeless between 2012 and 2013?
+  - In what state and how many of homeless people of each type(Unsheltered, families, veterans, unaccompanied children, and chronic) are there?
 
-1. Bubbles of the number of homeless by the States 
-2. Map of the United States by the number of homeless
-3. Stacked bar of the number of homeless for each type with selected State
-4. Side-by-Side bar chart of the number of homeless in 2012 and 2013
+- This dashboard is composed of the followings:
+  - Bubbles of the number of homeless by the States 
+  - Map of the United States by the number of homeless
+  - Stacked bar of the number of homeless for each type with selected State
+  - Side-by-Side bar chart of the number of homeless in 2012 and 2013
 
 - **Individual Project by Jinwoo(Roy) Yoon**
 
@@ -41,8 +42,9 @@ Have you noticed how many brands in the marketplace use indigenous/Native Americ
   * In which country was the most profitable?
   * Which segment should the company invest more?
 
-1. Map of the North America and Europe showing the amount of sales
-2. Graph of profit from sales by months
-3. Bar chart of sales by products/segments
+- This dashboard is composed of the followings:
+  - Map of the North America and Europe showing the amount of sales
+  - Graph of profit from sales by months
+  - Bar chart of sales by products/segments
 
 * **Individual Project by Jinwoo(Roy) Yoon**
